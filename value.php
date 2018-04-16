@@ -1,7 +1,7 @@
 <?php
 $servername = "mydatabase.demo.abc";
 $username = "root";
-$password = "mymysqlpass";
+$password = "sqlpass123";
 $dbname = "mysql";
 
 // Create connection
